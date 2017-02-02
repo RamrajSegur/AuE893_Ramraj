@@ -1,0 +1,8 @@
+prefix=/home/ramraj/ROS/AuE893_Ramraj/devel
+
+Name: assignment_01
+Description: Description of assignment_01
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ramraj/ROS/AuE893_Ramraj/devel/lib 
+Requires: 
