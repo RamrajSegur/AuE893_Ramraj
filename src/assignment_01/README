@@ -1,0 +1,29 @@
+Room navigation program
+------------------------------------------------
+To run Rosbag in Gazebo
+------------------------------------------------ 
+Please look into the path bagfiles/bagfile-gazebo.bag
+
+Use this command in terminal : rosbag play 2017-02-02-09-22-16.bag /turtle1/cmd_vel:=/cmd_vel_mux/input/teleop 
+
+-------------------------------------------------
+To run the program in Turtlesim
+-------------------------------------------------
+Please find the code in path : /home/ramraj/catkin_ws/src/gaitech/src/turtlesim/robot_cleaner.cpp 
+
+Run the command: cd catkin_ws
+		 catkin_make
+
+To open turtlesim node
+
+Run the command: rosrun turtlesim turtlesim_node
+
+To open robot_cleaner.cpp 
+
+Run the command: cd catkin_ws
+		 source devel/setup.bash
+		 rosrun gaitech robot_cleaner_node
+
+-----------------------------------------------------
+-----------------------------------------------------
+	
