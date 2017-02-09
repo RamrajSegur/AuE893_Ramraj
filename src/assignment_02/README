@@ -1,0 +1,20 @@
+SLAM - gmapping assignment
+-----------------------------------------------
+Path to the world given for assignment
+------------------------------------------------ 
+src/assignment_02/Worlds/random_things
+-------------------------------------------------
+Path to the map of the assignment
+-------------------------------------------------
+/src/assignment_02/maps/assignment.yaml
+-----------------------------------------------
+Path to the own custom made world
+------------------------------------------------ 
+src/assignment_02/Worlds/tutorial1.world
+-------------------------------------------------
+Path to the map of custom made world
+-------------------------------------------------
+/src/assignment_02/maps/tutorial1.yaml
+
+
+	
