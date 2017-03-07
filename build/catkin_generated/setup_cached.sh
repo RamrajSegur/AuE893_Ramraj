@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/ramraj/ROS/AuE893_Ramraj/devel:$CMAKE_PREFIX_PATH"
 export PWD="/home/ramraj/ROS/AuE893_Ramraj/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/ramraj/ROS/AuE893_Ramraj/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/home/ramraj/ROS/AuE893_Ramraj/src:$ROS_PACKAGE_PATH"
